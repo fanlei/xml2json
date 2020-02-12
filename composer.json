@@ -1,0 +1,22 @@
+{
+    "name": "codegear/xml2json",
+    "version": "1.0.0",
+    "time": "2019-01-29",
+    "type": "tool",
+    "description": "Command-line tool to conver XML to JSON",
+    "keywords": ["json", "formatter"],
+    "homepage": "https://github.com/whitephp/xml2json",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Lei Fan",
+            "email": "self@whitephp.net",
+            "homepage": "https://whitephp.net",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "bin": ["./bin/xml2json"]
+}
