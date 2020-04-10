@@ -24,7 +24,7 @@ $ xml2json data.xml
 ```
 Convert XML format data in file `data.xml` and save to JSON file `data.json`:
 ```shell
-$ jf data.xml > data.json
+$ xml2json data.xml > data.json
 ```
     
 ### In VIM
